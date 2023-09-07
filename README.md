@@ -1,5 +1,5 @@
 Here are the Download links for limbo and qcow2 file
-Limbo PC Em. 2.10.0 Needs Android 4.2+
-https://apkfab.com/limbo-pc-emulator-qemu-arm-x86/fr.energycube.android.app.com.limbo.emu.main.armv7/download
+Limbo PC Em. Needs Android 4.2+
+https://github.com/limboemu/limbo/releases/download/v6.0.1-LimboEmulator/limbo-android-x86-6.0.1-qemu-5.1.0.apk
 MSWXPP.qcow2 Size of File: 317MB
 https://disk.yandex.com/d/buHoy6LKRemyhA
